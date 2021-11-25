@@ -21,4 +21,16 @@
 *斜体特效*
 **加粗**
 ***斜体+加粗***
-`凸显特效`
+`凸显特效
+
+行式超链接
+上传[GITHUB](https://github.com "上传") 下载[git](https://github.com/git/git “下载”)
+
+
+上传[GITHUB][1] 下载[git][2]
+
+[1]:https://github.com 
+[2]:https://github.com/git/git 
+
+
+
