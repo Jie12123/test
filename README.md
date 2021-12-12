@@ -33,6 +33,6 @@
 [2]:https://github.com/git/git 
 
 
-![配图](![《Horizon Zero Dawn Victory》3440x1440游戏壁纸_彼岸图网.jpg](https://s2.loli.net/2021/12/12/JHInyz1uCWjwgbR.jpg))
+![《Horizon Zero Dawn Victory》3440x1440游戏壁纸_彼岸图网.jpg](https://s2.loli.net/2021/12/12/JHInyz1uCWjwgbR.jpg)
 
 
