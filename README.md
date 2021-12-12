@@ -21,7 +21,7 @@
 *斜体特效*
 **加粗**
 ***斜体+加粗***
-`凸显特效
+`凸显特效`
 
 行式超链接
 上传[GITHUB](https://github.com "上传") 下载[git](https://github.com/git/git "下载")
@@ -33,7 +33,6 @@
 [2]:https://github.com/git/git 
 
 
-
-
+![配图](![《Horizon Zero Dawn Victory》3440x1440游戏壁纸_彼岸图网.jpg](https://s2.loli.net/2021/12/12/JHInyz1uCWjwgbR.jpg))
 
 
